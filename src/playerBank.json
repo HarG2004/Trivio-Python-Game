@@ -1,0 +1,50 @@
+{
+    "natetyu": {
+        "password": "hello",
+        "currentSavedGame": {},
+        "highscore": 44
+    },
+    "sophiayuan": {
+        "password": "123",
+        "currentSavedGame": {
+            "timeStamp": "2024-04-02 18:07:03",
+            "levelAchieved": "2",
+            "subject": "social_sciences",
+            "score": 38,
+            "playerHP": "92",
+            "bossHP": "62",
+            "questions_correct": 8,
+            "questions_incorrect": 2
+        },
+        "highscore": 0
+    },
+    "stephoh": {
+        "password": "oh",
+        "currentSavedGame": {},
+        "highscore": 0
+    },
+    "michaelkim": {
+        "password": "0987",
+        "currentSavedGame": {},
+        "highscore": 7600
+    },
+    "harjapgrewal": {
+        "password": "harjapgrewal",
+        "currentSavedGame": {},
+        "highscore": 7600
+    },
+    "": {
+        "password": "",
+        "currentSavedGame": {
+            "timeStamp": "2025-06-01 21:55:40",
+            "levelAchieved": "1",
+            "subject": "math",
+            "score": 8,
+            "playerHP": "96",
+            "bossHP": "92",
+            "questions_correct": 2,
+            "questions_incorrect": 1
+        },
+        "highscore": 0
+    }
+}
